@@ -46,10 +46,15 @@ Weekly Trends: Most visits occurred on weekends.
 
 **Key Recommendations**
 Enhance Payment Collection: Focus on improving the 38.3% of pending payments to boost revenue.
+
 Targeted Health Initiatives: Implement programs for middle-aged and senior populations, given their higher hospital utilization.
+
 Expand Cardiology Services: Given its high patient volume and billing, further investment in this department could be beneficial.
+
 Optimize Weekend Services: With weekends seeing the highest patient traffic, staffing and resources should be adjusted accordingly.
+
 Insurance Partnerships: Strengthen relationships with top insurers like AXA to ensure coverage aligns with patient needs.
+
 Tools and Technologies
 Data Analysis: PowerBI, Excel
 Data Visualization: PowerBI
