@@ -1,3 +1,6 @@
+![lt8qxlsl](https://github.com/user-attachments/assets/c55dc3c7-f3b9-4354-9ea1-6d77d4ef145b)
+
+
 # Health-Care-Provider-Analysis
 Project Description
 This project provides an in-depth analysis of hospital data, focusing on patient demographics, billing, departmental visits, provider ratings, and temporal trends. The analysis aims to offer actionable insights for improving hospital operations, patient care, and financial performance.
